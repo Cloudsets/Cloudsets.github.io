@@ -11,12 +11,8 @@ h2 {
   text-align: center;
   color: #850000;
 }
-div {
-  display: block;
-}
-iframe {
-  justify-content: center;
-  display: flex;
+span {
+  margin-left: 15%;
 }
 p {
   font-family: monospace;
