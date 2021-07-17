@@ -12,10 +12,11 @@ h2 {
   color: #850000;
 }
 div {
-  display: flex;
+  display: block;
 }
 iframe {
   justify-content: center;
+  display: flex;
 }
 p {
   font-family: monospace;
