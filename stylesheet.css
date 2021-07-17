@@ -16,6 +16,10 @@ p {
   text-align: center;
   color: #AB3032;
 }
+#music {
+  text-align: center;
+  width: 100%
+}
 a {
   text-decoration: none;
   color: #BD0C00;
