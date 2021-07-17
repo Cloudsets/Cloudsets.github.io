@@ -17,5 +17,10 @@ p {
   color: #AB3032;
 }
 a {
+  text-decoration: none;
+  color: #BD0C00;
+}
+a:hover {
+  text-decoration: underline;
   color: #850000;
 }
