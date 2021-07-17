@@ -16,9 +16,11 @@ p {
   text-align: center;
   color: #AB3032;
 }
-#music {
-  text-align: center;
-  width: 100%
+div {
+  display: flex;
+}
+iframe {
+  justify-content: center;
 }
 a {
   text-decoration: none;
