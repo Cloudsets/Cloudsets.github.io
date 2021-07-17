@@ -17,10 +17,8 @@ p {
   color: #AB3032;
 }
 div {
-  display: flex;
-}
-iframe {
-  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 a {
   text-decoration: none;
